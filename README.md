@@ -18,7 +18,7 @@ A modern, responsive landing page for ColorCrest Paints featuring premium design
 - SEO-optimized structure
 
 ## 🚀 Live Demo
-[View Live Site](your-netlify-or-vercel-link-here)
+[View Live Site](https://paintayuskumar.netlify.app/)
 
 ## 👨‍💻 Developer
 **Ayush Kumar**
